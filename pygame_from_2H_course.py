@@ -8,7 +8,7 @@ pygame.display.set_caption("Space invaders")
 icon = pygame.image.load('z.png')
 pygame.display.set_icon(icon) #To ensure the image is effectively loaded
 #game loop, makes sure the window always stays on screen
-# To be removed later
+
 #player
 playerImg = pygame.image.load('fifapc.ico')
 playerX = 400
