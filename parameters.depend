@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1744671764 source:c:\users\gsi\documents\parameters\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<unistd.h>
+	"Questions.h"
+	"Utils.h"
+
+1744290782 c:\users\gsi\documents\parameters\questions.h
+
+1744642182 source:c:\users\gsi\documents\parameters\questions.c
+	"Questions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Utils.h"
+
+1744671763 c:\users\gsi\documents\parameters\utils.h
+
+1744671763 source:c:\users\gsi\documents\parameters\utils.c
+	<ctype.h>
+	<stdio.h>
+	<unistd.h>
+	"Utils.h"
+
